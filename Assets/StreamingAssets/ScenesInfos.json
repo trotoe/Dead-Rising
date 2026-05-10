@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "imgRes": "ScenesImg/1",
+    "name": "缄默圣庭",
+    "sceneName": "GameScene1",
+    "tips": "黄昏的光漫过天使雕像的兜帽，将羽翼与教堂的轮廓染成暖金，却在地面投下深邃的阴影。",
+    "towerHp": 100,
+    "money": 200
+  },
+  {
+    "id": 2,
+    "imgRes": "imgScene/2",
+    "name": "敬请期待111",
+    "sceneName": "GameScene2",
+    "tips": "略",
+    "towerHp": 100,
+    "money": 200
+  },
+  {
+    "id": 3,
+    "imgRes": "imgScene/3",
+    "name": "敬请期待222",
+    "sceneName": "GameScene3",
+    "tips": "略",
+    "towerHp": 100,
+    "money": 200
+  }
+]

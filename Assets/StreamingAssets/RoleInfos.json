@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "res": "Role/enginner",
+    "damage": 4,
+    "lockMoney": 0,
+    "hp": 200,
+    "tips": "enginner",
+    "money": 300
+  },
+  {
+    "id": 2,
+    "res": "Role/officer",
+    "damage": 4,
+    "lockMoney": 100,
+    "hp": 90,
+    "tips": "officer",
+    "money": 700
+  },
+  {
+    "id": 3,
+    "res": "Role/infantry",
+    "damage": 6,
+    "lockMoney": 200,
+    "hp": 150,
+    "tips": "infantry",
+    "money": 200
+  },
+  {
+    "id": 4,
+    "res": "Role/sniper",
+    "damage": 10,
+    "lockMoney": 500,
+    "hp": 130,
+    "tips": "sniper",
+    "money": 200
+  },
+  {
+    "id": 5,
+    "res": "Role/flammer",
+    "damage": 3,
+    "lockMoney": 800,
+    "hp": 100,
+    "tips": "flammer",
+    "money": 200
+  },
+  {
+    "id": 6,
+    "res": "Role/gunner",
+    "damage": 15,
+    "lockMoney": 1000,
+    "hp": 120,
+    "tips": "gunner",
+    "money": 100
+  }
+]
